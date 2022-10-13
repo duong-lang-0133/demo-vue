@@ -1,31 +1,4 @@
-# Crud-laravel-vue-js
-Crud laravel + vue js with api and template volar + vuetify component
-
-# Demo
-
-- Dashboard
- 
-<img src='https://i.postimg.cc/3xF9M2LJ/Dashboard.png' border='0' alt='Dashboard'/>
-
-- Table
-<img src='https://i.postimg.cc/nrmY3mjx/Table.png' border='0' alt='Table'/>
-
-- Form
-
-<img src='https://i.postimg.cc/C5pfLQ5y/tambah.png' border='0' alt='tambah'/>
-
-- Alert
-
-<img src='https://i.postimg.cc/g2tX6JjH/alert.png' border='0' alt='alert'/>
-
-# Getting started
-
 ## Installation
-
-Please check the official laravel installation guide for server requirements before you start. [Official Documentation](https://laravel.com/docs/5.4/installation#installation)
-
-Alternative installation is possible without local dependencies relying on [Docker](#docker). 
-
 Clone the repository
 
     git clone https://github.com/Rafieaydin/Crud-laravel-vue-js.git
