@@ -1,8 +1,4 @@
 ## Installation
-Clone the repository
-
-    git clone https://github.com/Rafieaydin/Crud-laravel-vue-js.git
-
 Switch to the repo folder
 
     cd Crud-laravel-vue-js
